@@ -1,16 +1,16 @@
 # Technology used:
 
-React query.
+React query.\
 
-Chart.js - for displaying line chart/
+Chart.js - for displaying line chart.\
 
-Leaflet - for displaying map and markers over it.
+Leaflet - for displaying map and markers over it.\
 
-Ant-design - for showing the contact data in the table
+Ant-design - for showing the contact data in the table.\
 
-React router - for routing
+React router - for routing.\
 
-Redux - state management
+Redux - state management.\
 
 # Steps to start on local machine
 
