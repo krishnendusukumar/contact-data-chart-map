@@ -14,7 +14,7 @@
 
 # Steps to start on local machine
 
-git clone https.\
+git clone "https://github.com/krishnendusukumar/contact-data-chart-map.git".\
 cd contact-data-chart-map.\
 npm install.\
 npm start
