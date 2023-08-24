@@ -17,7 +17,7 @@
 git clone https.\
 cd contact-data-chart-map.\
 npm install.\
-npm start.\
+npm start
 
 # Getting Started with Create React App
 
