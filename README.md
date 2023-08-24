@@ -1,3 +1,19 @@
+# Technology used:
+
+React query 
+Chart.js - for displaying line chart
+Leaflet - for displaying map and markers over it.
+Ant-design - for showing the contact data in the table
+React router - for routing
+Redux - state management
+
+# Steps to start on local machine
+
+git clone https..
+cd contact-data-chart-map
+npm install
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
