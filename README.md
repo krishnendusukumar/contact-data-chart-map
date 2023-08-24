@@ -1,6 +1,6 @@
 # Technology used:
 
-React query.\
+**React query**.\
 
 **Chart.js** - for displaying line chart.\
 
